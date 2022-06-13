@@ -1,5 +1,5 @@
 # Informe-tarea3
-1.Objetivos
+1.-Objetivos
 
 General 
 
@@ -13,7 +13,7 @@ Determinar la ley del voltaje de Kirchhoff.
 
 Analizar los voltajes en serie y paralelo.
 
-2.Marco teórico
+2.-Marco teórico
 
 ![image](https://user-images.githubusercontent.com/105823435/173263206-67a3864d-61ee-4fd9-92a1-79473639030a.png)
 ![image](https://user-images.githubusercontent.com/105823435/173263462-54cf2365-8478-405c-ba56-90d51592cf1d.png)
@@ -21,7 +21,7 @@ Analizar los voltajes en serie y paralelo.
 ![image](https://user-images.githubusercontent.com/105823435/173263631-0224a4c4-0898-48c6-966c-25a21f22d0c0.png)
 ![image](https://user-images.githubusercontent.com/105823435/173263751-cfe4ff6d-92f2-4919-a07c-76e122c74247.png)
 
-3.Explicación y resolución de ejercicios 
+3.-Explicación y resolución de ejercicios 
 
 Sección 5–1 Resistores en serie 
 
@@ -87,7 +87,7 @@ RT = 6*56 Ω +8*100 Ω +2*22 Ω = 1180 Ω
 
 RT = R1+R2+R3
 
-RT = 680 Ω*26+100 Ω*3+10 Ω*2 = 18000 Ω*0.001kΩ/1Ω = 18kΩ
+RT = (680Ω)*26+(100Ω)*3+(10Ω)*2 = 18000Ω*(0.001kΩ/1Ω) = 18kΩ
 
 18.En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
