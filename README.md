@@ -669,13 +669,30 @@ I4 = 12R/25/4R * (0.01) =1.2mA
 
 ![image](https://user-images.githubusercontent.com/105823435/173265412-1368cc8c-df8b-4148-83c0-4fa808c18039.png)
 
+IT = 10mA, IM = 1mA, ISH1 = 9mA 
+
+VM = IMRM 
+
+VM = 1mA*50Mv = 50mV 
+
+RSH1 = VM/ISH1 
+
+RSH1 = 50mV/9mA = 5.56 Ω
 
 
 (b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM  50 Ω). 
 
 ![image](https://user-images.githubusercontent.com/105823435/173265439-a875c027-6137-426d-b6e6-989523de938f.png)
 
+IT = 1000mA, IM = 1mA, ISH2 = 99mA  
 
+VM = IMRM 
+
+VM = 1mA*50Mv = 50mV 
+
+RSH = VM/ISH2 
+
+RSH = 50mV/99mA = 0.50 Ω
 
 Sección 6–8 Potencia en circuitos en paralelo 
 
