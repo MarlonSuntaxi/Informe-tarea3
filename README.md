@@ -776,12 +776,12 @@ R1 y R3 están abiertos
 
 Una de las resistencias esta quemada.
 
-4.Video
+4.-Video
 
 
 https://www.youtube.com/watch?v=-yFXFrQe5ho&feature=youtu.be
 
-5.Conclusiones 
+5.-Conclusiones 
 
 Se analizó y aplico los métodos expuestos en los capítulos cinco y seis.
 
@@ -789,7 +789,7 @@ Se analizó y aplico la ley de voltajes de Kirchhoff.
 
 Se identificó y definió los voltajes en serie y paralelo.
 
-6.Bibliografía
+6.-Bibliografía
 
 Osorio, C. (5 de Agosto de 2021). Concepto. Obtenido de Concepto: https://concepto.de/circuito-en-serie/
 
