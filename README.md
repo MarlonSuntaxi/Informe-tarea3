@@ -81,7 +81,7 @@ RT = 1MΩ + 560kΩ +5.6MΩ +680kΩ +10MΩ  = 17.84 MΩ
 
 RT = R1+R2+R3…Rn
 
-RT = 6*56 Ω +8*100 Ω +2*22 Ω = 1180 Ω
+RT = 6x56 Ω +8x100 Ω +2x22 Ω = 1180 Ω
 
 16.Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 k Ω, 2.2 k Ω, y 5.6 k Ω. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 k Ω. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total? 
 
